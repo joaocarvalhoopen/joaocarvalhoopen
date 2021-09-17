@@ -3,6 +3,7 @@ baseProfile="full"
 width="500" height="500"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="500" height="500" fill="white" />
 <rect x="0" y="0" rx="15" ry="15" width="500" height="500" fill="black" />
 <circle cx="250.72" cy="35.00" r="2.00" fill="blue" />
 <circle cx="250.67" cy="35.00" r="2.00" fill="blue" />
