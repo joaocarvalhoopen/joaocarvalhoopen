@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvalhoopen&langs_count=10&layout=compact&hide=ShaderLab,HLSL) <img src="lorenz_strange_attractor.svg" width="216" height="216" />
+<img src="lorenz_strange_attractor.svg" width="216" height="216" />
